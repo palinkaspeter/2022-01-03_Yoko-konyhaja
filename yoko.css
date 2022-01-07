@@ -22,6 +22,7 @@ h1 {
 	font-size: 36px;
 }
 
+
 nav, footer {
 	clear: both;
 	color: #ffffff;
@@ -83,8 +84,8 @@ figcaption {
 	text-align: left;
 }
 
-aside section a {
-	display: block;
+aside section a 
+{	display: block;
 	padding: 10px;
 	border-bottom: 3px solid #eeeeee;
 }
@@ -123,4 +124,13 @@ section.contpage {
 .home {
 	text-align: center;
 	font-size: 20px;
+}
+aside{
+	width: 230px;
+	margin-left: 20px;
+	float: right;
+}
+aside{
+	color: #de6581;
+	text-decoration: none;
 }
